@@ -1,0 +1,12 @@
+pandas
+matplotlib
+scipy
+numpy
+math
+geopandas
+mapclassify
+pingouin
+pywaffle
+chart_studio
+plotly
+cufflinks
